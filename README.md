@@ -1,5 +1,6 @@
-set up npm 
-npm install react-bootstrap
+<H1>TO ACCESS THIS REPO THIS THREE THING IS REQUIREMENT</H1>
+set up npm <BR>
+npm install react-bootstrap <BR>
 and don't forgot to install router
 
 
