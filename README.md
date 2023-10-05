@@ -1,3 +1,8 @@
+set up npm 
+npm install react-bootstrap
+and don't forgot to install router
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
